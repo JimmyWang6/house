@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/a961370183/smtpServer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/pengjiu/ChineseChess.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Downloads" />
