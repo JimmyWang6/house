@@ -66,6 +66,10 @@
           <option name="url" value="git@codeup.aliyun.com:5f4d93d85fd102f22f6bc9bb/hhjc-service/hhjc-hr.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Wechat-Group/WxJava.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop/destop/springcloud" />
